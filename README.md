@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuangbodin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning reac + vite + typescript
+- 🌱 I’m currently learning react + vite + typescript
 - 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me : here on github
 - 😄 Pronouns: he/him

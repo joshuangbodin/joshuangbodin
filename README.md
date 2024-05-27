@@ -7,7 +7,7 @@
 
 -  my projects:
 -   avaria - hosted at https://avariahotel.onrender.com
--   country-web - hosted at https://country-web.onrender.com/
+
   
 
 <!---

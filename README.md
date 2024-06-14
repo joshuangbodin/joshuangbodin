@@ -5,9 +5,7 @@
 - 📫 How to reach me : here on github
 - 😄 Pronouns: he/him
 
--  my projects:
--   avaria - hosted at https://avariahotel.onrender.com
--   countries - hosted at https://country-web.onrender.com
+
 
   
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m joshua
 - 👀 I’m interested in programming and designing
-- 🌱 I’m currently working with react + vite + typescript
-- 💞️ I’m looking to collaborate on any front-end Project
+- 🌱 I’m currently working with react and react native 
+- 💞️ I’m looking to collaborate on any front-end project
 - 📫 How to reach me : here on github
 - 😄 Pronouns: he/him
 
